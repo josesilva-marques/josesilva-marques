@@ -42,6 +42,6 @@ Este repositório documenta minha jornada de aprendizado em desenvolvimento web,
     * Linkedin: https://www.linkedin.com/in/josé-roberto-da-silva-marques-4bba7ba8
       
 **Como usar este README:**
-eu * Este README será atualizado regularmente à medida que eu avançar nos meus estudos.
+* Este README será atualizado regularmente à medida que eu avançar nos meus estudos.
 * Sinta-se à vontade para explorar os exemplos de código e projetos.
 * Se tiver alguma sugestão ou feedback, entre em contato!
