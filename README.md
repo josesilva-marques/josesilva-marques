@@ -19,7 +19,7 @@ Este repositório documenta minha jornada de aprendizado em desenvolvimento web,
         * Criação de página básica com cabeçalho, paragrafo e imagem.
         * Desenvolvimento de formulário básico de contato com campos de nome, email e mensagem.
         * Construção de tabela simples para exibir dados.
-* **CSS (Em Breve):**
+* **CSS:**
     * Descrição: Estilização de páginas web.
     * Conceitos a serem Estudados:
         * Seletores
