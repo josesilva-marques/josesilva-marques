@@ -27,7 +27,7 @@ Este repositório documenta minha jornada de aprendizado em desenvolvimento web,
         * Layouts (flexbox, grid)
         * Responsividade
         * Animações
-* **JavaScript (Em Breve):**
+* **JavaScript:**
     * Descrição: Interatividade em páginas web.
     * Conceitos a serem Estudados:
         * Variáveis e tipos de dados
