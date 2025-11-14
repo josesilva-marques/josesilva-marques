@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Módulo 4 – Formulários básicos</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h1>Formulário de Contato</h1>
+    <form>
+      <label>Nome:</label>
+      <input type="text" name="nome" /><br /><br />
+
+      <label>Email:</label>
+      <input type="email" name="email" /><br /><br />
+
+      <label>Mensagem:</label><br />
+      <textarea name="mensagem"></textarea>
+      <br /><br />
+      <input type="submit" value="Enviar" />
+    </form>
+
+    <h1>Exemplos Práticos (HTML)</h1>
+    <h2>Radio (Seleção única)</h2>
+    <form>
+      <p>Selecione o método de pagamento:</p>
+      <input
+        type="radio"
+        id="credito"
+        name="metodo_pagamento"
+        value="credito"
+      />
+      <label for="credito">Cartão de Crédito</label><br />
+      <input type="radio" id="debito" name="metodo_pagamento" value="debito" />
+      <label for="debito">Cartão de Débito</label><br />
+      <input type="radio" id="boleto" name="metodo_pagamento" value="boleto" />
+      <label for="boleto">Boleto</label>
+    </form>
+    <h2>Checkbox (Múltiplas seleções)</h2>
+
+    <form>
+      <p>Selecione seus interesses:</p>
+      <input type="checkbox" id="interesse1" name="interesse1" value="musica" />
+      <label for="interesse1">Música</label><br />
+      <input
+        type="checkbox"
+        id="interesse2"
+        name="interesse2"
+        value="esportes"
+      />
+      <label for="interesse2">Esportes</label><br />
+      <input
+        type="checkbox"
+        id="interesse3"
+        name="interesse3"
+        value="leitura"
+      />
+      <label for="interesse3">Leitura</label>
+    </form>
+    <h2>Reset (Botão de ação)</h2>
+    <form>
+      <label for="nome">Nome:</label>
+      <input type="text" id="nome" name="nome" /><br />
+      <input type="submit" value="Enviar" />
+      <input type="reset" value="Limpar Formulário" />
+    </form>
+  </body>
+</html>
