@@ -3,7 +3,7 @@
 🚀 **Estudante de Pós-Graduação em Engenharia de Software | JavaScript**  
 🇧🇷
 
-Construi no técnico em eletrônica um robô que desviava de obstáculos com sensor sonar baseado na Mars Rover.
+Construí no técnico em eletrônica um robô que desviava de obstáculos com sensor sonar baseado na Mars Rover.
 
 Técnico em Informática fiz um projeto de Sinistro na Linguagem Java.
 
