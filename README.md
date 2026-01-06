@@ -1,7 +1,7 @@
 # Oi 👋, Eu sou José Marques
 
 🚀 **Estudante Pós-Graduação em Engenharia de Software | JavaScript**  
- Brazil
+🇧🇷
 
 Construi no técnico em eletrônica um robô que desviava de obstáculos com sensor sonar baseado na Mars Rover.
 
