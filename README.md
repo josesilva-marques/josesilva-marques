@@ -1,47 +1,61 @@
-# Meus Estudos de Desenvolvimento Web
+# Oi 👋, Eu sou José Marques
 
-**Descrição:**
+🚀 **Estudante Pós-Graduação em Engenharia de Software | JavaScript**  
+ Brazil
 
-Este repositório documenta minha jornada de aprendizado em desenvolvimento web, começando com HTML e progredindo para CSS e JavaScript. Aqui, você encontrará exemplos de código, projetos e anotações sobre os conceitos que estou estudando.
+Construi no técnico em eletrônica um robô que desvia de obstáculos com sensor sonar baseado na Mars Rover.
 
-**Conteúdo:**
+Técnico em Informática realizamos um projeto de Sinistro na Linguagem Java.
 
-* **HTML:**
-    * Descrição: Fundamentos da estrutura de páginas web.
-    * Conceitos Estudados:
-        * Tags básicas (``, ``, ``, ``, etc.)
-        * Estrutura de um documento HTML
-        * Semântica HTML
-        * Formulários
-        * Tabelas
-        * Listas
-    * Projetos:
-        * Criação de página básica com cabeçalho, paragrafo e imagem.
-        * Desenvolvimento de formulário básico de contato com campos de nome, email e mensagem.
-        * Construção de tabela simples para exibir dados.
-* **CSS:**
-    * Descrição: Estilização de páginas web.
-    * Conceitos a serem Estudados:
-        * Seletores
-        * Modelo de caixa (box model)
-        * Layouts (flexbox, grid)
-        * Responsividade
-        * Animações
-* **JavaScript:**
-    * Descrição: Interatividade em páginas web.
-    * Conceitos a serem Estudados:
-        * Variáveis e tipos de dados
-        * Estruturas de controle (condicionais, loops)
-        * Funções
-        * DOM (Document Object Model)
-        * Eventos
-        * APIs
-* **Recursos:**
-    * Links para tutoriais, documentação e outros recursos úteis.
-* **Contato:**
-    * Linkedin: https://www.linkedin.com/in/josé-roberto-da-silva-marques-4bba7ba8
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/josesilva-marques">
+    <img src="https://img.shields.io/badge/GitHub-josesilva-marques-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que eu faço
+
+- Eu sou estudante de Pós-graduação em Engenharia de Software
+- Estou adorando aprender sobre desenvolvimento web
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josesilva-marques&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesilva-marques&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> A função de um bom software é fazer o complexo parecer simples". (Grady Booch)  
+> "O código é como o humor. Quando você tem que explicar, é ruim". (Cory House)
+
+---
+
+⭐ Se você gosta do meu trabalho, considere marcar um repositório com estrela  
+🤝 Sempre aberto a colaborações, parcerias e ideias interessantes
+
+
       
-**Como usar este README:**
-* Este README será atualizado regularmente à medida que eu avançar nos meus estudos.
-* Sinta-se à vontade para explorar os exemplos de código e projetos.
-* Se tiver alguma sugestão ou feedback, entre em contato!
