@@ -13,7 +13,7 @@ Técnico em Informática realizamos um projeto de Sinistro na Linguagem Java.
 
 <p align="left">
   <a href="https://github.com/josesilva-marques">
-    <img src="https://img.shields.io/badge/GitHub-josesilva-marques-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-josesilva-marques?style=for-the-badge&logo=github" />
   </a>
 </p>
 
