@@ -1,15 +1,15 @@
 # Oi 👋, Eu sou José Marques
 
-🚀 **Estudante Pós-Graduação em Engenharia de Software | JavaScript**  
+🚀 **Estudante de Pós-Graduação em Engenharia de Software | JavaScript**  
 🇧🇷
 
 Construi no técnico em eletrônica um robô que desviava de obstáculos com sensor sonar baseado na Mars Rover.
 
-Técnico em Informática realizamos um projeto de Sinistro na Linguagem Java.
+Técnico em Informática fiz um projeto de Sinistro na Linguagem Java.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/josesilva-marques">
@@ -26,7 +26,7 @@ Técnico em Informática realizamos um projeto de Sinistro na Linguagem Java.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 ### Frontend
 
