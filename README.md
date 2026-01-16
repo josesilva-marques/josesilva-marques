@@ -16,8 +16,8 @@ Técnico em Informática fiz um projeto de Sinistro na Linguagem Java.
     <img src="https://img.shields.io/badge/GitHub-josesilva-marques?style=for-the-badge&logo=github" />
   </a>
 </p>
-<a href="https://www.linkedin.com/in/josesilva-marques/">
-  <img src="https://img.shields.io/badge/linkedin-josesilva--marques-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="www.linkedin.com/in/josé-roberto-da-silva-marques-4bba7ba8">
+  <img src="https://img.shields.io/badge/linkedin-josé-roberto-da-silva-marques-4bba7ba8-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 ---
