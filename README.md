@@ -15,8 +15,11 @@ Técnico em Informática fiz um projeto de Sinistro na Linguagem Java.
   <a href="https://github.com/josesilva-marques">
     <img src="https://img.shields.io/badge/GitHub-josesilva-marques?style=for-the-badge&logo=github" />
   </a>
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
+<a href="https://www.linkedin.com/in/josesilva-marques/">
+  <img src="https://img.shields.io/badge/linkedin-josesilva--marques-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 ---
 
 ## 🧠 O que eu faço
